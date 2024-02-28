@@ -29,7 +29,7 @@ jobs:
           server_address: smtp.gmail.com
           server_port: 587
           username: "puneetjoshi412@gmail.com"
-          password: ${{ scmr iijk bicm zieq }}
+          password: "scmriijkbicmzieq"
           to: "anil.digitaldesign@gmail.com"
           subject: "GitHub Action Notification"
           body: "Hello from GitHub Actions! Your workflow has been triggered."
