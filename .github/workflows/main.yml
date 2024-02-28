@@ -16,11 +16,11 @@ jobs:
     steps:
     - name: Send Email Notification
       env:
-        SMTP_SERVER: ${{ smtp.gmail.com }}
-        SMTP_PORT: ${{ 587 }}
-        SMTP_USERNAME: ${{ puneetjoshi412@gmail.com }}
-        SMTP_PASSWORD: ${{ Puneet@123456789 }}
-        TO_EMAIL: "Puneetjoshi412@gmail.com"  # Replace with your email
+        SMTP_SERVER: ${{smtp.gmail.com}}
+        SMTP_PORT: ${{587}}
+        SMTP_USERNAME: ${{puneetjoshi412@gmail.com}}
+        SMTP_PASSWORD: ${{ctyt pspf lnkn dbpf}}
+        TO_EMAIL: "Csjoshi251@gmail.com"  # Replace with your email
         FROM_EMAIL: "Puneetjoshi412@gmail.com"  # Replace with your GitHub email
         SUBJECT: "GitHub Notification"
         BODY: |
