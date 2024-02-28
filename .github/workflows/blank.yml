@@ -28,7 +28,7 @@ jobs:
         with:
           server_address: smtp.gmail.com
           server_port: 587
-          username: ${{puneetjoshi412@gmail.com }}
+          username: "puneetjoshi412@gmail.com"
           password: ${{ scmr iijk bicm zieq }}
           to: "anil.digitaldesign@gmail.com"
           subject: "GitHub Action Notification"
