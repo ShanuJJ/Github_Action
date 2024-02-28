@@ -28,7 +28,7 @@ jobs:
         with:
           server_address: smtp.gmail.com
           server_port: 587
-          username: "puneetjoshi412@gmail.com"
+          username: ${{ secrets.username }}
           password: "scmriijkbicmzieq"
           from: "Your Name <your-email@gmail.com>"
           to: "anil.digitaldesign@gmail.com"
