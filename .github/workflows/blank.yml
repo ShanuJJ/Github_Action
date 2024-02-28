@@ -30,6 +30,7 @@ jobs:
           server_port: 587
           username: "puneetjoshi412@gmail.com"
           password: "scmriijkbicmzieq"
+          from: "Your Name <your-email@gmail.com>"
           to: "anil.digitaldesign@gmail.com"
           subject: "GitHub Action Notification"
           body: "Hello from GitHub Actions! Your workflow has been triggered."
