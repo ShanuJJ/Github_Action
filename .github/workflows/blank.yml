@@ -33,3 +33,4 @@ jobs:
           to: "anil.digitaldesign@gmail.com"
           subject: "GitHub Action Notification"
           body: "Hello from GitHub Actions! Your workflow has been triggered."
+          content_type: text/plain
